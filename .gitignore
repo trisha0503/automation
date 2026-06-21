@@ -1,0 +1,9 @@
+.env
+__pycache__/
+*.pyc
+downloads/
+screenshots/
+venv/
+.venv/
+*.pdf
+*.png
